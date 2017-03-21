@@ -16,6 +16,7 @@
 		41EF148B1E7FAA07000A688C /* BViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 41EF148A1E7FAA07000A688C /* BViewController.m */; };
 		41EF148F1E7FAA30000A688C /* Target_B.m in Sources */ = {isa = PBXBuildFile; fileRef = 41EF148E1E7FAA30000A688C /* Target_B.m */; };
 		41EF14B61E80C54B000A688C /* testA.m in Sources */ = {isa = PBXBuildFile; fileRef = 41EF14B51E80C54B000A688C /* testA.m */; };
+		41EF14BC1E80F7A4000A688C /* testB.m in Sources */ = {isa = PBXBuildFile; fileRef = 41EF14BB1E80F7A4000A688C /* testB.m */; };
 		640BC17D5A2D07F53A53F31D /* libPods-B.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FA3F5049E830C1463EBDC577 /* libPods-B.a */; };
 /* End PBXBuildFile section */
 
@@ -37,6 +38,8 @@
 		41EF148E1E7FAA30000A688C /* Target_B.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Target_B.m; sourceTree = "<group>"; };
 		41EF14B41E80C54B000A688C /* testA.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = testA.h; sourceTree = "<group>"; };
 		41EF14B51E80C54B000A688C /* testA.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = testA.m; sourceTree = "<group>"; };
+		41EF14BA1E80F7A4000A688C /* testB.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = testB.h; sourceTree = "<group>"; };
+		41EF14BB1E80F7A4000A688C /* testB.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = testB.m; sourceTree = "<group>"; };
 		9739F61B43D0D5A54E3147CF /* Pods-B.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-B.debug.xcconfig"; path = "Pods/Target Support Files/Pods-B/Pods-B.debug.xcconfig"; sourceTree = "<group>"; };
 		FA3F5049E830C1463EBDC577 /* libPods-B.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-B.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -120,6 +123,8 @@
 				41EF148C1E7FAA1E000A688C /* Target */,
 				41EF14891E7FAA07000A688C /* BViewController.h */,
 				41EF148A1E7FAA07000A688C /* BViewController.m */,
+				41EF14BA1E80F7A4000A688C /* testB.h */,
+				41EF14BB1E80F7A4000A688C /* testB.m */,
 			);
 			path = B;
 			sourceTree = "<group>";
@@ -271,6 +276,7 @@
 				41EF14B61E80C54B000A688C /* testA.m in Sources */,
 				41EF14761E7FA990000A688C /* AppDelegate.m in Sources */,
 				41EF14731E7FA990000A688C /* main.m in Sources */,
+				41EF14BC1E80F7A4000A688C /* testB.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

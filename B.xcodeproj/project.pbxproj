@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		416B93481E81107C00967538 /* CTMediator+bussines_B.m in Sources */ = {isa = PBXBuildFile; fileRef = 416B93471E81107C00967538 /* CTMediator+bussines_B.m */; };
 		41EF14731E7FA990000A688C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 41EF14721E7FA990000A688C /* main.m */; };
 		41EF14761E7FA990000A688C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 41EF14751E7FA990000A688C /* AppDelegate.m */; };
 		41EF14791E7FA990000A688C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 41EF14781E7FA990000A688C /* ViewController.m */; };
@@ -22,6 +23,8 @@
 
 /* Begin PBXFileReference section */
 		3D9784C5801AEC4D1DAC6476 /* Pods-B.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-B.release.xcconfig"; path = "Pods/Target Support Files/Pods-B/Pods-B.release.xcconfig"; sourceTree = "<group>"; };
+		416B93461E81107C00967538 /* CTMediator+bussines_B.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CTMediator+bussines_B.h"; sourceTree = "<group>"; };
+		416B93471E81107C00967538 /* CTMediator+bussines_B.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CTMediator+bussines_B.m"; sourceTree = "<group>"; };
 		41EF146E1E7FA990000A688C /* B.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = B.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		41EF14721E7FA990000A688C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		41EF14741E7FA990000A688C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -125,6 +128,8 @@
 				41EF148A1E7FAA07000A688C /* BViewController.m */,
 				41EF14BA1E80F7A4000A688C /* testB.h */,
 				41EF14BB1E80F7A4000A688C /* testB.m */,
+				416B93461E81107C00967538 /* CTMediator+bussines_B.h */,
+				416B93471E81107C00967538 /* CTMediator+bussines_B.m */,
 			);
 			path = B;
 			sourceTree = "<group>";
@@ -276,6 +281,7 @@
 				41EF14B61E80C54B000A688C /* testA.m in Sources */,
 				41EF14761E7FA990000A688C /* AppDelegate.m in Sources */,
 				41EF14731E7FA990000A688C /* main.m in Sources */,
+				416B93481E81107C00967538 /* CTMediator+bussines_B.m in Sources */,
 				41EF14BC1E80F7A4000A688C /* testB.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
